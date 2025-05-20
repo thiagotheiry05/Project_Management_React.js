@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Project_Management_React.js/static/css/main.f9a553ac.css",
+    "main.js": "/Project_Management_React.js/static/js/main.e93754cb.js",
+    "static/media/savings.svg": "/Project_Management_React.js/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/Project_Management_React.js/index.html",
+    "static/media/loading.svg": "/Project_Management_React.js/static/media/loading.cb532fb55bf84419963cc55778925f86.svg",
+    "main.f9a553ac.css.map": "/Project_Management_React.js/static/css/main.f9a553ac.css.map",
+    "main.e93754cb.js.map": "/Project_Management_React.js/static/js/main.e93754cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a553ac.css",
+    "static/js/main.e93754cb.js"
+  ]
+}
